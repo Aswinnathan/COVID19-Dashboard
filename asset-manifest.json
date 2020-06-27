@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/COVID19-Dashboard/static/css/main.2104491b.chunk.css",
-    "main.js": "/COVID19-Dashboard/static/js/main.b23e20c1.chunk.js",
-    "main.js.map": "/COVID19-Dashboard/static/js/main.b23e20c1.chunk.js.map",
+    "main.css": "/COVID19-Dashboard/static/css/main.1cbc27b4.chunk.css",
+    "main.js": "/COVID19-Dashboard/static/js/main.dd859afb.chunk.js",
+    "main.js.map": "/COVID19-Dashboard/static/js/main.dd859afb.chunk.js.map",
     "runtime-main.js": "/COVID19-Dashboard/static/js/runtime-main.2e7fa052.js",
     "runtime-main.js.map": "/COVID19-Dashboard/static/js/runtime-main.2e7fa052.js.map",
-    "static/js/2.60e6c257.chunk.js": "/COVID19-Dashboard/static/js/2.60e6c257.chunk.js",
-    "static/js/2.60e6c257.chunk.js.map": "/COVID19-Dashboard/static/js/2.60e6c257.chunk.js.map",
+    "static/js/2.f718a47a.chunk.js": "/COVID19-Dashboard/static/js/2.f718a47a.chunk.js",
+    "static/js/2.f718a47a.chunk.js.map": "/COVID19-Dashboard/static/js/2.f718a47a.chunk.js.map",
     "index.html": "/COVID19-Dashboard/index.html",
-    "precache-manifest.2ece346eeadde9d13a17c4f850ba96f0.js": "/COVID19-Dashboard/precache-manifest.2ece346eeadde9d13a17c4f850ba96f0.js",
+    "precache-manifest.5feef90352a9a850fa5563a69022cd44.js": "/COVID19-Dashboard/precache-manifest.5feef90352a9a850fa5563a69022cd44.js",
     "service-worker.js": "/COVID19-Dashboard/service-worker.js",
-    "static/css/main.2104491b.chunk.css.map": "/COVID19-Dashboard/static/css/main.2104491b.chunk.css.map",
-    "static/js/2.60e6c257.chunk.js.LICENSE.txt": "/COVID19-Dashboard/static/js/2.60e6c257.chunk.js.LICENSE.txt"
+    "static/css/main.1cbc27b4.chunk.css.map": "/COVID19-Dashboard/static/css/main.1cbc27b4.chunk.css.map",
+    "static/js/2.f718a47a.chunk.js.LICENSE.txt": "/COVID19-Dashboard/static/js/2.f718a47a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/COVID19-Dashboard/static/media/image.d7265326.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2e7fa052.js",
-    "static/js/2.60e6c257.chunk.js",
-    "static/css/main.2104491b.chunk.css",
-    "static/js/main.b23e20c1.chunk.js"
+    "static/js/2.f718a47a.chunk.js",
+    "static/css/main.1cbc27b4.chunk.css",
+    "static/js/main.dd859afb.chunk.js"
   ]
 }
