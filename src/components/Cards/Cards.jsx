@@ -6,30 +6,30 @@ import cx from 'classnames';
 import styles from './Cards.module.css';
 
 const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
-    if (!confirmed) {
-        return 'Loading...';
-    }
-
     const fetchedData = [
         {
             type: 'Infected',
-            count: confirmed.value,
+            count: confirmed?.value,
             text: 'Number of active cases of COVID-19',
             updated: lastUpdate,
         },
         {
             type: 'Recovered',
-            count: recovered.value,
+            count: recovered?.value,
             text: 'Number of recoveries from COVID-19',
             updated: lastUpdate,
         },
         {
             type: 'Deaths',
-            count: deaths.value,
+            count: deaths?.value,
             text: 'Number of deaths caused by COVID-19',
             updated: lastUpdate,
         },
     ];
+
+    if (!confirmed) {
+        return 'Loading...';
+    }
 
     return (
         <div className={styles.container}>
